@@ -13,4 +13,4 @@ Typical uses of a .slx Simulink file include:
 - Designing and testing controllers (PID, state-space, etc.)
 - Visualizing signals and system responses
 
-To know the exact contents—such as what system is modeled, what inputs/outputs are used, and what the simulation demonstrates—you would need to open the file in MATLAB Simulink.
+To know the exact contents — such as what system is modeled, what inputs/outputs are used, and what the simulation demonstrates — you would need to open the file in MATLAB Simulink.
